@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care este situația actuală a datoriilor în UE?",
+  "subtitle": "Raportul mediu al datoriei publice în PIB al UE a crescut ușor de la 80,5% la 80,7% la sfârșitul trimestrului 3 din 2025.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Următoarele țări nu respectă criteriul de la Maastricht privind o datorie publică maximă de 60% din PIB: Belgia, Germania, Grecia, Spania, Franța, Italia, Cipru, Ungaria, Austria, Portugalia, Slovenia, Slovacia, Finlanda.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din PIB",
   "tooltipExtraInfoLabel": "Click aici"
 }
