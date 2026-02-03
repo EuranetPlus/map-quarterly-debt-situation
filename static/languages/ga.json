@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén staid reatha atá ar an bhfiachas san AE?",
+  "subtitle": "Mhéadaigh cóimheas fiachais rialtais i gcoinne OTI an AE beagán ó 80.5% go 80.7% faoi dheireadh R3 2025.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Ní chomhlíonann na tíortha seo a leanas critéar Maastricht maidir le fiachas rialtais uasta de 60% den OTI:\nan Bheilg, an Ghearmáin, an Ghréig, an Spáinn, an Fhrainc, an Iodáil, an Chipir, an Ungáir, an Ostair, an Phortaingéil, an tSlóivéin, an tSlóvaic, an Fhionlainn.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den OTI",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
