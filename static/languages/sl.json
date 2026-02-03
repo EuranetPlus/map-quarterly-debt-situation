@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kakšno je trenutno stanje dolga v EU?",
+  "subtitle": "Povprečno razmerje med javnim dolgom in BDP v EU se je do konca tretjega četrtletja 2025 nekoliko povečalo z 80,5 % na 80,7 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Naslednje države ne izpolnjujejo maastrichtskega kriterija o najvišjem državnem dolgu v višini 60 % BDP:\nBelgija, Nemčija, Grčija, Španija, Francija, Italija, Ciper, Madžarska, Avstrija, Portugalska, Slovenija, Slovaška, Finska.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "BDP",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
