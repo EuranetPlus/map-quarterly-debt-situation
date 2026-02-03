@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Milline on praegune võlakoormus EL-is?",
+  "subtitle": "ELi keskmine valitsemissektori võla suhe SKPsse suurenes 2025. aasta kolmanda kvartali lõpu seisuga veidi, 80,5%-lt 80,7%-le.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Järgmised riigid ei vasta Maastrichti kriteeriumile, mille kohaselt on valitsemissektori võla maksimaalne suurus 60% SKPst: Belgia, Saksamaa, Kreeka, Hispaania, Prantsusmaa, Itaalia, Küpros, Ungari, Austria, Portugal, Sloveenia, Slovakkia, Soome.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "SKP-st",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
