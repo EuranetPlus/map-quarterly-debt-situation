@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur ser skuldsituationen ut i EU just nu?",
+  "subtitle": "EU:s genomsnittliga statsskuld i förhållande till BNP ökade något från 80,5 % till 80,7 % i slutet av tredje kvartalet 2025.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Följande länder uppfyller inte Maastrichtkriteriet om en maximal statsskuld på 60 % av BNP: Belgien, Tyskland, Grekland, Spanien, Frankrike, Italien, Cypern, Ungern, Österrike, Portugal, Slovenien, Slovakien, Finland.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av BNP",
   "tooltipExtraInfoLabel": "Klicka här"
 }
