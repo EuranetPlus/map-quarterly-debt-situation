@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est la situation actuelle de la dette dans l'UE ?",
+  "subtitle": "Le ratio moyen dette publique/PIB de l'UE a légèrement augmenté, passant de 80,5 % à 80,7 % à la fin du troisième trimestre 2025.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les pays suivants ne respectent pas le critère de Maastricht, qui fixe la dette publique maximale à 60 % du PIB :\n\nAllemagne, Belgique, Grèce, Espagne, France, Italie, Chypre, Hongrie, Autriche, Portugal, Slovénie, Slovaquie, Finlande.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "du PIB",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
