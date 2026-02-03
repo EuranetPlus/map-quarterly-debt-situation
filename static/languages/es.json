@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuál es la situación actual de la deuda en la UE?",
+  "subtitle": "La relación deuda pública/PIB media de la UE aumentó ligeramente del 80,5% al 80,7% a finales del tercer trimestre de 2025.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los siguientes países no cumplen el criterio de Maastricht de una deuda pública máxima del 60% del PIB:\nBélgica, Alemania, Grecia, España, Francia, Italia, Chipre, Hungría, Austria, Portugal, Eslovenia, Eslovaquia y Finlandia.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "del PIB",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
