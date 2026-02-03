@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaka jest aktualna sytuacja zadłużenia w UE?",
+  "subtitle": "Średnia relacja długu publicznego do PKB w UE na koniec III kwartału 2025 r. nieznacznie wzrosła z 80,5% do 80,7%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Następujące kraje nie spełniają kryterium z Maastricht, które określa maksymalny dług publiczny na poziomie 60% PKB:\nBelgia, Niemcy, Grecja, Hiszpania, Francja, Włochy, Cypr, Węgry, Austria, Portugalia, Słowenia, Słowacja, Finlandia.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "PKB",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
