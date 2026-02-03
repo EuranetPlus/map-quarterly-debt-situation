@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāda ir pašreizējā parādu situācija ES?",
+  "subtitle": "ES vidējā valdības parāda attiecība pret IKP 2025. gada 3. ceturkšņa beigās nedaudz palielinājās no 80,5 % līdz 80,7 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šādas valstis neatbilst Māstrihtas kritērijam, kas paredz maksimālo valsts parāda līmeni 60% no IKP: Beļģija, Vācija, Grieķija, Spānija, Francija, Itālija, Kipra, Ungārija, Austrija, Portugāle, Slovēnija, Slovākija, Somija.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no IKP",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
