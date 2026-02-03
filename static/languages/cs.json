@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaká je současná dluhová situace v EU?",
+  "subtitle": "Průměrný poměr veřejného dluhu k HDP v EU se ke konci 3. čtvrtletí 2025 mírně zvýšil z 80,5 % na 80,7 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Následující země nesplňují maastrichtské kritérium maximálního vládního dluhu 60 % HDP: Belgie, Německo, Řecko, Španělsko, Francie, Itálie, Kypr, Maďarsko, Rakousko, Portugalsko, Slovinsko, Slovensko, Finsko.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "HDP",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
